@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>PHP</ID>
+  <OriginalElement>\GlobalCounter</OriginalElement>
+  <nodes>
+    <node x="0.0" y="634.0">\LikeBox</node>
+    <node x="199.25" y="0.0">\MediaType</node>
+    <node x="187.0" y="322.0">\RequestDialog</node>
+    <node x="319.0" y="478.0">\Comments</node>
+    <node x="350.0" y="400.0">\ResizeCanvas</node>
+    <node x="472.0" y="478.0">\AppConfig</node>
+    <node x="399.0" y="161.0">\Recommendations</node>
+    <node x="262.0" y="83.0">\ImageMedia</node>
+    <node x="0.0" y="244.0">\LinkedProperty</node>
+    <node x="450.0" y="556.0">\LikeGate</node>
+    <node x="161.0" y="478.0">\SendButton</node>
+    <node x="178.0" y="400.0">\LogoutButton</node>
+    <node x="365.0" y="322.0">\GlobalCounter</node>
+    <node x="302.0" y="556.0">\Bookmark</node>
+    <node x="0.0" y="556.0">\LikeButton</node>
+    <node x="151.0" y="556.0">\ActionLink</node>
+    <node x="0.0" y="478.0">\Permissions</node>
+    <node x="0.0" y="400.0">\StreamPublish</node>
+    <node x="400.0" y="83.0">\Mp3Media</node>
+    <node x="23.0" y="161.0">\Property</node>
+    <node x="521.0" y="400.0">\LoginButton</node>
+    <node x="183.0" y="161.0">\CustomLoginButton</node>
+    <node x="0.0" y="322.0">\InviteAllFriends</node>
+    <node x="129.0" y="83.0">\VideoMedia</node>
+    <node x="0.0" y="83.0">\FlashMedia</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="\ImageMedia" target="\MediaType">
+      <point x="0.0" y="-16.5" />
+      <point x="321.0" y="63.0" />
+      <point x="266.75" y="63.0" />
+      <point x="13.5" y="16.5" />
+    </edge>
+    <edge source="\FlashMedia" target="\MediaType">
+      <point x="0.0" y="-16.5" />
+      <point x="54.5" y="53.0" />
+      <point x="212.75" y="53.0" />
+      <point x="-40.5" y="16.5" />
+    </edge>
+    <edge source="\Mp3Media" target="\MediaType">
+      <point x="0.0" y="-16.5" />
+      <point x="451.5" y="53.0" />
+      <point x="293.75" y="53.0" />
+      <point x="40.5" y="16.5" />
+    </edge>
+    <edge source="\LinkedProperty" target="\Property">
+      <point x="0.0" y="-16.5" />
+      <point x="0.0" y="16.5" />
+    </edge>
+    <edge source="\VideoMedia" target="\MediaType">
+      <point x="0.0" y="-16.5" />
+      <point x="185.5" y="63.0" />
+      <point x="239.75" y="63.0" />
+      <point x="-13.5" y="16.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.9155749636098981" x="319.0" y="333.5" />
+  <SelectedNodes>
+    <node>\GlobalCounter</node>
+  </SelectedNodes>
+  <Categories />
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
