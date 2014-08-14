@@ -1,0 +1,58 @@
+.Faceconn_dialog_shadow {
+    background: none repeat scroll 0 0 rgba(82, 82, 82, 0.7);
+    z-index: 10001;
+    border-radius: 8px 8px 8px 8px;
+    -moz-border-radius: 8px;
+    -webkit-border-radius: 8px;
+    padding: 10px;
+    width: 550px;
+    height: 220px;
+    position: absolute;
+}
+
+.Faceconn_continue_invite_button {
+    background-color: #37629A;
+    background: -moz-linear-gradient(center bottom, #37629A, #517EC7);
+    background: -webkit-gradient(linear, left top, left bottom, from(#37629A), to(#517EC7));
+    background: -ms-linear-gradient(bottom, #37629A 50%, #517EC7 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#37629A', endColorstr='#517EC7');
+    border: 1px solid #1e5181;
+    border-radius: 3px 3px 3px 3px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    color: white;
+    cursor: pointer;
+    display: inline-block;
+    font-family: Arial font-size : 14 px;
+    font-weight: normal;
+    height: 27px;
+    text-shadow: 0 1px rgba(0, 0, 0, 0.4);
+}
+
+.Faceconn_invite_progress_empty {
+    background-color: f2f2f2;
+    background: -moz-linear-gradient(center bottom, #f2f2f2, #e2e2e2);
+    background: -webkit-gradient(linear, left top, left bottom, from(#f2f2f2), to(#e2e2e2));
+    background: -ms-linear-gradient(bottom, #f2f2f2 50%, #e2e2e2 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f2f2f2', endColorstr='#e2e2e2');
+    border: 1px solid #1e5181;
+    border-radius: 3px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    width: 100%;
+    height: 20px;
+}
+
+.Faceconn_invite_progress {
+    background-color: #37629A;
+    background: -moz-linear-gradient(center bottom, #37629A, #517EC7);
+    background: -webkit-gradient(linear, left top, left bottom, from(#37629A), to(#517EC7));
+    background: -ms-linear-gradient(bottom, #37629A 50%, #517EC7 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#37629A', endColorstr='#517EC7');
+    border: 1px solid #1e5181;
+    border-radius: 3px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    height: 18px;
+    margin-left: -1px
+}
